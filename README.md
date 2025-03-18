@@ -1,2 +1,0 @@
-# gustfolio
-Meu portfolio
