@@ -1,3 +1,3 @@
-const x = 123;
+const x = 123
 
-export { x };
+export { x }
