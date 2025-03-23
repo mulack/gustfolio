@@ -1,0 +1,22 @@
+{
+  "name": "gustfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx concurrently \"cd backend && npm run start:dev\" \"cd frontend && npm rum dev\""
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mulack/gustfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": { 
+    "url": "https://github.com/mulack/gustfolio/issues"
+  },
+  "homepage": "https://github.com/mulack/gustfolio#readme",
+  "description": ""
+}
