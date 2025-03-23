@@ -1,0 +1,7 @@
+POST https://godmulack.app.n8n.cloud/webhook/Assistente-pessoal
+Content-Type: application/json
+
+{
+    "chatID": "1234567",
+    "mensagem": "Ele faz uma boa lasanha ?"
+}
